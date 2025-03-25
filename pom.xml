@@ -9,7 +9,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>Assalam o Alaikum Habibi, Mubarkaan Pipeline as a code main Maven Project ki testing, building or deploy krwa dia!</name>
+  <name>hello-world</name>
   <description>Demo project for Spring Boot</description>
 
   <parent>
